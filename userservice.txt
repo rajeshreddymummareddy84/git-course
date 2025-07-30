@@ -2,3 +2,5 @@ get user data ...
 process user data
 
 create a profile for user
+
+login and logout
