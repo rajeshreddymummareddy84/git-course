@@ -4,6 +4,10 @@ manage roles
 maintain data
 
 change 1 
+<<<<<<< HEAD
 change 2 in my db
 
+=======
+change 2 in kiran dbs
+>>>>>>> feature3
 
